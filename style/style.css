@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: pink;
+    color: darkred;
+    border: 1px solid black;
+}
+
+b{
+    background-color: orange;
+}
+
+p{
+    padding: 30px;
+}
+div{
+    margin: 20px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 1px solid black;
+}
